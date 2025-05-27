@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    /* Primary Colors */
+    --primary-light: #FFFFFF;
+    --primary-dark: #363738;
+  
+    /* Text Colors */
+    --text-primary: #D37643;
+    --text-secondary: #D37643;
+    --button-text: #D37643;
+    --card-text: #D37643;
+  
+    /* Secondary Colors */
+    --secondary-light: #F5F5F5;
+    --secondary-base: #EFEAF1;
+    --secondary-accent: #DB4444;
+  
+    /* Other Colors */
+    --button1: #47B486;
+    --button2: #DB4444;
+    --hover-button1: #E2B93B;
+    --hover-button2: #EB5757;
+  
+    /* Background */
+    --background: #FFFFFF;
+  
+    /* Logo Color */
+    --logo: #D37643;
+  }
